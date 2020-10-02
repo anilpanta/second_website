@@ -1,0 +1,117 @@
+.bgimage{
+    background-image: url(images/home.png);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 700px;
+}
+.head1{
+    padding-top: 220px;
+    color: white;
+
+}
+.head11 ,.head12{
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+}
+.button1{
+    border-radius: 25px;
+    width: 170px;
+    height: 40px;
+    background-image: linear-gradient(to right, rgb(255, 61, 47) 60%, rgb(255, 185, 55));
+    border: none;
+    font-weight: 700;
+    color: white;
+}
+.button2{
+    border: none;
+    background: none;
+    color: white;
+    margin-left: 50px;
+    font-weight: 700;
+}
+.button2 a{
+    color: white;
+}
+.buttons{
+    padding-top: 15px;
+}
+.bg{
+    color: black;
+}
+/* .navbar{
+    background-color: rgb(2, 18, 29);
+} */
+.btop{
+    margin-top: 150px;
+    background-color: rgb(238, 238, 238);
+    /* border-radius: 20% 20% 0% 0%; */
+    border-top-left-radius: 50% 40px;
+    border-top-right-radius: 50% 40px;
+}
+.row{
+    padding-top: 100px;
+    text-align: center;
+    
+}
+.opac{
+    opacity: 50%;
+}
+.carde1{
+    /* margin-top: 90px; */
+    /* margin-bottom: 90px; */
+    width: 85%;
+    /* height: 200px; */
+    background-color: white;
+    box-shadow: 1px 1px 10px rgb(139, 138, 138);
+    border-color: transparent;
+    
+}
+/* .card{
+    background: transparent;
+    border: none;
+} */
+.foot{
+    padding-top: 150px;
+    
+}
+.cont11{
+    /* margin-bottom: 20px; */
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+}
+.cont1{
+    width: 60%;
+    margin-right: auto;
+    margin: 40px;
+}
+.cont12{
+    margin-left: 50px;
+    margin-top: -40px;
+    font-family: 'Roboto', sans-serif;
+}
+.cont1 a{
+    font-weight: bold;
+    margin-left: 50px;
+}
+i{
+    margin-top: 30px;
+}
+.cont2{
+    width: 35%;
+}
+.card{
+    border-color: white;
+}
+.carde2{
+    box-shadow: 1px 1px 10px rgb(139, 138, 138);
+}
+/* .imagegrp{
+    position: ;
+} */
+.footer{
+    font-size: small;
+    color: blue;
+    background-color: rgb(238, 238, 238);
+}
